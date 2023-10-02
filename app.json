@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FastBank",
+    "slug": "FastBank",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
